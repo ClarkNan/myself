@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* line 1, ../sass/fk.sass */
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "微軟正黑體";
+  letter-spacing: 1px;
+}
+
+/* line 7, ../sass/fk.sass */
+.all {
+  margin: 10px;
+}
+
+/* line 10, ../sass/fk.sass */
+.myself {
+  border-radius: 5px;
+}
+
+/* line 13, ../sass/fk.sass */
+.ulleft {
+  padding-left: 20px;
+}
+
+/* line 16, ../sass/fk.sass */
+li {
+  font-size: 15px;
+}
+
+/* line 20, ../sass/fk.sass */
+.myself {
+  border: solid 1px black;
+  margin: 0 300px 0 300px;
+  padding: 20px 40px 20px 40px;
+}
+
+/* line 27, ../sass/fk.sass */
+.allme {
+  padding-top: 20px;
+}
+
+/* line 30, ../sass/fk.sass */
+.about1 {
+  list-style: none;
+}
